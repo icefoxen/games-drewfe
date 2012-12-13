@@ -1,0 +1,9 @@
+Resource system
+Maps
+More flexible driver...  Modes.  This affects input, too.
+Map drawer
+Sprites
+
+I wonder how it'd work if, each level where a stat didn't go up, its probability to go up next level increased.
+Or, if nothing goes up, reroll that level.
+Or, have a fixed level-up system and a random level-up system.

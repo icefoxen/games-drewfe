@@ -1,0 +1,31 @@
+Wow, programming Python really IS fast.  ^_^
+
+Okay, this is gonna kinda build on the trustworthy ol' Edge of Infinity engine
+fundamentals.  We're gonna need a resource system and a config file loader.
+However, we can simply use XML config files or something similar, and have the
+standard library handle it.
+
+Everything --maps, characters, items, maybe conversations, and so on-- is
+gonna be in a config file.  Scripting is, hah, trivial.  
+
+
+SYSTEMS:
+Map movement, events, and turn succession
+Conversations
+Character auxillary --support levels, levelling, weapon skills, promotion
+Battle scenes and calculations
+Item aquisition and trading
+Storyline sequence (later?)
+AI
+Stat screen
+
+
+SERVICES:
+Sound
+Image-loader (check!)
+Config-files (check!)
+pygame init and destruction
+Game-saving
+UI and events
+Pathing
+Global game and system flags

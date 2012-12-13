@@ -1,0 +1,16 @@
+So, cursor movement is done.  Next up:
+Character movement --Pathfinding, map grid weights...
+Sane character movement
+Character screen
+Cursor actually doing things
+
+Stuff!
+
+
+Then:
+Combat?
+Events?
+Framework -loading and saving, intro screen, menus, pre-battle, etc
+Conversations?
+Battle details -promotion, victory, stealing, items, shops
+

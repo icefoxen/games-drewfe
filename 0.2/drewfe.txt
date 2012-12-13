@@ -1,0 +1,55 @@
+Okay, this is going to be a Fire Emblem engine.  We're gonna write it in Ruby
+and SDL, 'cause that's pretty straightforward.
+
+Program Design:
+Driver
+  Level
+    Convo engine
+    Map
+    Teams
+      Characters
+        Items
+  Drawer
+    Sprite-drawer
+    Map-drawer
+    Convo-drawer
+    Stat-screen drawer
+    Combat drawer
+    Effects engine
+  Combat system
+  Config system
+  Input
+  Sound
+  Save/Load
+  
+
+
+
+
+Design doc:
+
+* Large scale battles, like FE4.  Waypoints exist, though.
+* Support convo's like FE7
+* FE7-style magic
+* Only 2 holy weapons, the Light and Dark magics.  But, other characters get
+unique weapons that only they can use
+* 2nd-attacks are speed-based
+
+
+
+Pretty much like any FE game.  Things to think about:
+* Feats?  Improved crit, meteor/moonlight hit, prayer, wrath.  No pursuit.
+Feats will probably be class- or character-specific, but not both.
+* Weapon durability?  Maybe good weapons are just rare and weapons are
+invincible.  Or they're just fixable.  We can mess with it.
+* Weapon proficiencies by class, or gained through experience?
+* Should classes directly affect stats and growths and such, or not?  Probably
+not, it's more general.
+
+
+Proposed organization:
+Here's how I envision this working:
+Eddie: Designer, writer, Man In Charge.  Has final say over everything, 'cause
+someone's gotta.  Creativity is not a democracy.
+Paul: Artist and sprite-ripper
+Simon and David: Coders

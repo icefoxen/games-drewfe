@@ -1,0 +1,32 @@
+imgFile: sprites1.png
+frameW : 16
+frameH : 16
+animDelay: 200
+anims:
+   standAnim: 
+      # Lakche sprite
+      -
+         - 0
+         - 0 
+      -
+         - 1
+         - 0
+      -
+         - 2
+         - 0 
+      -
+         - 1
+         - 0
+   otherStand:
+      -
+         - 0
+         - 1
+      -
+         - 1
+         - 1
+      -
+         - 2
+         - 1 
+      -
+         - 1
+         - 1

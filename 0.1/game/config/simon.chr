@@ -1,0 +1,35 @@
+name: Simon
+class: Pegasus Knight
+movement: 7
+movementMode: flying
+maxhp   : 20
+strength: 0
+magic   : 0
+speed   : 0
+skill   : 0
+luck    : 0
+defense : 0
+mdefense: 0
+constitution: 10
+hpg      : 0.65
+strengthg: 0.35
+magicg   : 0.00
+speedg   : 0.40
+skillg   : 0.45
+luckg    : 0.30
+defenseg : 0.25
+mdefenseg: 0.30
+weaponType: weapon
+sword     : 6
+axe       : 6
+spear     : 3
+bow       : 6
+light     : 6
+dark      : 6
+anima     : 6
+staff     : 6
+experience : 0
+level      : 1
+promotedcls: Falcon Knight
+portraitFile: simon-portrait.png
+spriteFile: test.sprite

@@ -1,0 +1,28 @@
+Okay, architecture thoughts.
+
+First one is that we distribute the mainloop a little, and have each object
+(map, battle, character screen, conversation screen, etc) have it's own little
+mainloop, complete with IO handling.  This can be done for this kind of game,
+and the OO structure would work really nicely, probably.  However, it may end
+up with having to do some silly code-duplication in a lot of places.
+
+Essentially, do I have one big loop that does everything with the
+conglomeration of objects at it's disposal, or does it just dispatch tasks to
+each individual object?  The latter sounds more appealing, but it's also more
+complicated, 'cause the heirarchy is more important...
+
+
+So the basic question is, where does the calculation take place?  Does the map
+handle character movement, or the level?  Which does what drawing?  Which
+"owns" and manipulates the characters?
+Hmmm.
+
+
+...the level owns the characters.  The map just handles pathing.  The level
+draws stuff on top of the map.  The level handles the cursor, the keyboard
+input, and so on.  The level hands stuff off to the conversation system or the
+battle loop.  The level probably is told how to move enemies by the enemy AI.
+
+How exactly do teams fit into this?  Hmm.  Well, they determine character
+color (sprites? dynamic re-coloring?).  They determine the name and logo.
+They determine what the player owns and what can fight what.

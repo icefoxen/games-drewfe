@@ -1,0 +1,9 @@
+imgFile: test-maptile.png
+frameW : 16
+frameH : 16
+animDelay: 0
+anims:
+   mapanim: 
+      -
+         - 1
+         - 0 

@@ -1,0 +1,122 @@
+,HP,Str/Mag,Skl,Spd,Luk,Def,Res
+Eddie,75,45,55,50,35,25,35,Knight Lord
+John (Koven),70,50,45,50,40,30,25,Dragoon
+Evan,60,60,40,70,10,25,20,Sniper
+Jesse,85,50,55,50,25,25,20,Warrior
+Alex,80,35,60,60,25,20,15,Sword Master
+Arthur,90,40,35,30,35,55,15,General
+Ali,50,55,45,45,35,20,30,Druid
+Kristin,60,30,70,70,25,20,15,Assassin
+Nicole,55,45,55,55,30,15,35,Sage
+Laura,60,30,50,60,25,20,45,Falco Knight
+Jason,75,45,50,50,10,35,30,Paladin
+Katherine,50,20,45,60,50,25,40,Valkyrie
+Keith,80,60,30,55,15,35,20,Berserker
+Elysse,65,45,55,45,30,25,20,Ranger (Forrest Knight)
+Jenny,55,35,40,45,45,30,40,Priestess
+Tina,60,55,40,40,40,20,35,Bishop
+Paul,75,45,60,45,15,30,20,Paladin
+Kevin,80,50,30,60,30,25,10,Dragon Knight
+Simon,65,35,45,50,30,25,40,Falco Knight
+Kat,55,65,40,35,20,20,45,Sage
+Allison,70,0,25,65,50,35,45,Dancer
+Mike,85,55,45,45,30,25,15,Hero
+Jessica,60,50,55,55,30,20,40,Divine Lord
+,"1,560",895,"1,070","1,190",680,605,655,290
+
+Eddie- Lord/Knight Lord (EKS)
+Koven- Lancer/Dragoon
+Evan- Archer/Sniper
+Jesse- (Axe) Fighter/Warrior
+Alex- Myrmidon/Sword Master
+Arthur- Knight/General
+Ali- Shaman/Druid
+Kristin- Thief/Assassin
+Nicole- Mage/Sage
+Laura- Pegasus Knight/Falcon Knight
+Jason- Cavalier/Paladin
+Katherine- Troubadour/Valkerie
+Keith- Berserker (prepromoted)
+Elysse- Nomad/Ranger
+Jenny- Sister/Priestess
+Tina- Monk/Bishop
+Kevin- Wyvern Knight/Dragon Knight
+Kat- Mage/Sage
+Jessica- Lord/Divine Lord (Radiant)
+Mike- Mercenary/hero
+Simon- Pegasus Knight/Falcon Knight
+Paul- Cavalier Paladin
+Allison- Dancer
+
+
+Sorted by location:
+
+DREW (17):
+Eddie- Lord/Knight Lord (EKS)
+Koven- Lancer/Dragoon
+Evan- Archer/Sniper
+Jesse- (Axe) Fighter/Warrior
+Alex- Myrmidon/Sword Master
+Arthur- Knight/General
+Ali- Shaman/Druid
+Kristin- Thief/Assassin
+Nicole- Mage/Sage
+Laura- Pegasus Knight/Falcon Knight
+Jason- Cavalier/Paladin
+Katherine- Troubadour/Valkerie
+Keith- Berserker (prepromoted)
+Elysse- Nomad/Ranger
+Jenny- Sister/Priestess
+Tina- Monk/Bishop
+Kevin- Wyvern Knight/Dragon Knight
+
+StL (6):
+Jessica- Lord/Divine Lord (Radiant)
+Mike- Mercenary/hero
+Simon- Pegasus Knight/Falcon Knight
+Paul- Cavalier Paladin
+Allison- Dancer
+Kat- Mage/Sage
+
+23 total
+
+
+Sorted by weapon (caveliers count twice)
+
+Sword-y people: 6
+Eddie
+Alex
+Kristin
+Jason
+Mike
+Paul
+
+Lance-y people: 6
+Arthur
+Laura
+Jason
+Kevin
+Simon
+Paul
+
+Axe-y people: 2
+Jesse
+Keith
+
+Bow-y people: 2
+Evan
+Elysse
+
+Mages: 5
+Ali (dark)
+Nicole (anima)
+Tina (light)
+Kat (anima)
+Jessica (light)
+
+Healers: 2
+Katherine
+Jenny
+
+Utility: 1
+Allison
